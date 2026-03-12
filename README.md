@@ -46,7 +46,7 @@ This RNA-seq workflow consists of the following stages:
 
 ## Programs & Tools
 
-**Workflow orchestration**: Nextflow
+**Workflow**: Nextflow
 
 **Quality control**: FastQC, MultiQC
 
